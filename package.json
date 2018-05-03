@@ -1,0 +1,24 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "test website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mekk255/website.git"
+  },
+  "author": "mekk255",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mekk255/website/issues"
+  },
+  "homepage": "https://github.com/mekk255/website#readme",
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "reactstrap": "^6.0.1"
+  }
+}
